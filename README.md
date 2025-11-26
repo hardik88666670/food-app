@@ -1,12 +1,29 @@
-# React + Vite
+🍕 Food Ordering App — Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live: https://food-app-taupe-iota.vercel.app/
 
-Currently, two official plugins are available:
+This is a modern Food Ordering Web Application built using React + Vite, designed for a fast and smooth user experience.
+Users can browse items, view details, add items to the cart, and simulate a checkout flow.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔥 Key Features
 
-## Expanding the ESLint configuration
+Fast, responsive UI using React
+Add-to-cart functionality
+Real-time cart updates
+Dynamic rendering of menu items
+State management using useState and/or Redux (if added)
+Clean component structure
+Hosted on Vercel for rapid performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+
+React
+Vite
+JavaScript (ES6+)
+CSS / Tailwind (if used)
+
+Vercel Deployment
+
+📌 Project Goal
+
+To demonstrate strong frontend development skills in React, including state management, component architecture, and UI rendering.
